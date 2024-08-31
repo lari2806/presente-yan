@@ -14,6 +14,6 @@
 
 | Nome         | GitHub Stats                                                                                                       | Linguagens Mais Usadas                                                                                                    |
 |--------------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Lari2806     | ![Estatísticas do GitHub de Lari2806](https://github-readme-stats.vercel.app/api?username=lari2806&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lari2806&layout=compact&theme=radical) |
-| SavioMariano | ![Estatísticas do GitHub de SavioMariano](https://github-readme-stats.vercel.app/api?username=SavioMariano&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMariano&layout=compact&theme=radical) |
+| Lari2806     | ![Estatísticas do GitHub de Lari2806](https://github-readme-stats.vercel.app/api?username=lari2806&show_icons=true&theme=synthwave) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lari2806&layout=compact&theme=synthwave) |
+| SavioMariano | ![Estatísticas do GitHub de SavioMariano](https://github-readme-stats.vercel.app/api?username=SavioMariano&show_icons=true&theme=synthwave) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMariano&layout=compact&theme=synthwave) |
 
